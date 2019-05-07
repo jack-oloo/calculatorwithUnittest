@@ -1,0 +1,16 @@
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Calculator.exe
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Calculator.exe.config
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\Users\jbolo\Desktop\C#\Calculator\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
